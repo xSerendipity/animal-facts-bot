@@ -1138,6 +1138,7 @@ GRASSHOPPER_FACTS = (
     'Grasshoppers can grow up to five inches. Females are usually bigger than males.',
     'There are 11,000 known species of grasshoppers.',
     'A single grasshopper can eat half its bodyweight in a day.',
+    'Grasshopper has an eardrum on the abdomen. Grasshopper can detect rhythm and intensity, but it cannot hear pitch of a sound.',
     )
 
 GORILLA_FACTS = (
